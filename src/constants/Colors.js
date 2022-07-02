@@ -2,7 +2,7 @@ export default{
     primary: "#FF5722",
    secondary: "#FFA000",
    success:"#00C853",
-   primarydark:"#C41C01",
+   primarydark:"#C41C00",
    secondText: "#C4C4C4",
    secondText2:"#ECECEC",
    secondText3:"#979494",
